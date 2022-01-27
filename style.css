@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+#soccer{
+    background:linear-gradient( #a81828 0%,#2f1596 100%);
+}
+h1,h3{
+    color: brown;
+    font-family: 'Cookie', cursive;
+}
+h2{
+
+font-family: 'Cookie', cursive;
+}
+.clas{
+position: fixed;
+cursor: pointer;
+width: 100%;
+list-style: none;
+z-index: 20;
+top:0px;
+margin-top: 0px;
+background: aquamarine;
+padding-bottom: 10px;
+} 
+.clss{
+    padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-left: 20px;
+display: inline;
+font-size: 20px;
+}
+#soccer{
+    z-index: 18;
+
+
+}
+h1{
+    font-size: 50px;
+}
+#mesi,#Leo{
+    font-size: 57px;
+}
